@@ -10,6 +10,16 @@
 
 ---
 
+## 🎯 Mi Portafolio
+
+<div align="center">
+
+### ✨ [Explora mis Proyectos en Mi Portafolio](https://jeremysanchezdev.github.io/my-portfolio/)
+
+</div>
+
+---
+
 ## 🚀 Sobre Mí
 
 <div align="center">
@@ -155,6 +165,7 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 
 - 📧 **Email**: Jeremy16312928@gmail.com
 - 🔗 **GitHub**: [JeremySanchezDev](https://github.com/JeremySanchezDev)
+- 🌐 **Portafolio**: [Mis Proyectos](https://jeremysanchezdev.github.io/my-portfolio/)
 
 ---
 
