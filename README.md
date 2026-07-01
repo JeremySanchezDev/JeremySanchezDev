@@ -143,9 +143,9 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 
 ### 🐍 Mis Contribuciones
 
-</div>
+![Snake animation](https://raw.githubusercontent.com/JeremySanchezDev/JeremySanchezDev/main/dist/github-snake.svg)
 
-![Snake animation](https://github.com/JeremySanchezDev/JeremySanchezDev/raw/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
 
