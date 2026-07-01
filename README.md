@@ -1,12 +1,18 @@
+<div align="center">
+
 # 👋 Hola, soy Jeremy Sánchez
 
 **Data Engineer | Software Developer | Tech Leader**
 
 📍 Lima, Perú | 📧 Jeremy16312928@gmail.com
 
+</div>
+
 ---
 
 ## 🚀 Sobre Mí
+
+<div align="center">
 
 Analista Programador apasionado por la **ingeniería de datos** e **inteligencia artificial**, con experiencia en desarrollo de soluciones tecnológicas complejas. Mi carrera combina:
 
@@ -16,9 +22,13 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 - 📊 **Business Intelligence**: Dashboards interactivos y análisis de datos
 - 📱 **Desarrollo Móvil**: Aplicaciones Android con Kotlin y Java
 
+</div>
+
 ---
 
 ## 🛠️ Stack Tecnológico
+
+<div align="center">
 
 ### **Lenguajes de Programación**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,9 +74,13 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
+</div>
+
 ---
 
 ## 📚 Educación & Certificaciones
+
+<div align="center">
 
 ### Educación
 - **Ingeniería de Software** | Universidad Autónoma del Perú *(Marzo 2023 – En curso)*
@@ -79,9 +93,13 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 - ✅ Scrum Foundation Professional Certification - SFPC (CertiProf)
 - ✅ Programación en Python Intermedio (Universidad Nacional de Ingeniería - UNI)
 
+</div>
+
 ---
 
 ## 💡 Habilidades Clave
+
+<div align="center">
 
 | Competencia | Descripción |
 |-------------|-------------|
@@ -92,16 +110,24 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 | 🔄 **Adaptabilidad** | Capacidad para aprender nuevas tecnologías rápidamente |
 | 📱 **Desarrollo Multiplataforma** | Frontend, Backend y Aplicaciones Móviles |
 
+</div>
+
 ---
 
 ## 🌐 Idiomas
 
+<div align="center">
+
 - 🇵🇪 **Español** - Nativo
 - 🇬🇧 **Inglés** - Básico (comprensión lectora, escrito y oral)
+
+</div>
 
 ---
 
 ## 📈 Lo que me Motiva
+
+<div align="center">
 
 - 🚀 Construir soluciones de datos que generen impacto real
 - 💡 Resolver problemas complejos con pensamiento crítico
@@ -109,15 +135,21 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 - 📚 Aprender constantemente sobre nuevas tecnologías
 - 📱 Crear aplicaciones que mejoren la experiencia del usuario
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeremySanchezDev/JeremySanchezDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeremySanchezDev/JeremySanchezDev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JeremySanchezDev/JeremySanchezDev/output/github-snake.svg" />
-</picture>
+</div>
 
 ---
+
+<div align="center">
+
+### 🐍 Mis Contribuciones
+
+</div>
+
+![Snake animation](https://github.com/JeremySanchezDev/JeremySanchezDev/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
 
 ## 📬 Conectemos
 
@@ -127,3 +159,5 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 ---
 
 ⭐ Si te interesan mis proyectos, no dudes en explorar mis repositorios y dejar una estrella. ¡Siempre abierto a colaborar en proyectos interesantes!
+
+</div>
