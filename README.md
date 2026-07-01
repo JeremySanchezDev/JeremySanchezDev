@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### ✨ [Explora mis Proyectos en Mi Portafolio](https://jeremysanchezdev.github.io/my-portfolio/)
+###   [Explora mis Proyectos en Mi Portafolio](https://jeremysanchezdev.github.io/my-portfolio/)
 
 </div>
 
