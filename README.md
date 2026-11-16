@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Jeremy Sánchez
 
-**Data Engineer | Software Developer | Tech Leader**
+**IA Engineer | Software Engineer | Tech Leader**
 
 📍 Lima, Perú | 📧 Jeremy16312928@gmail.com
 
@@ -27,7 +27,7 @@
 Analista Programador apasionado por la **ingeniería de datos** e **inteligencia artificial**, con experiencia en desarrollo de soluciones tecnológicas complejas. Mi carrera combina:
 
 - 🔧 **Data Engineering**: Diseño de esquemas relacionales, pipelines de ETL y visualización interactiva de datos
-- 💻 **Desarrollo Full Stack**: JavaScript, Python y arquitectura de soluciones escalables
+- 💻 **Desarrollo Full Stack Jr**: JavaScript, Python y arquitectura de soluciones escalables
 - 🎯 **Liderazgo Técnico**: Visión tecnológica en proyectos de impacto global
 - 📊 **Business Intelligence**: Dashboards interactivos y análisis de datos
 - 📱 **Desarrollo Móvil**: Aplicaciones Android con Kotlin y Java
