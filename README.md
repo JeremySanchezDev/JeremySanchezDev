@@ -8,18 +8,6 @@
 
 </div>
 
----
-
-## 🎯 Mi Portafolio
-
-<div align="center">
-
-###   [Explora mis Proyectos en Mi Portafolio](https://jeremysanchezdev.github.io/my-portfolio/)
-
-</div>
-
----
-
 ## 🚀 Sobre Mí
 
 <div align="center">
@@ -27,7 +15,7 @@
 Analista Programador apasionado por la **ingeniería de datos** e **inteligencia artificial**, con experiencia en desarrollo de soluciones tecnológicas complejas. Mi carrera combina:
 
 - 🔧 **Data Engineering**: Diseño de esquemas relacionales, pipelines de ETL y visualización interactiva de datos
-- 💻 **Desarrollo Full Stack Jr**: JavaScript, Python y arquitectura de soluciones escalables
+- 💻 **Desarrollo Full Stack **: JavaScript, Python y arquitectura de soluciones escalables
 - 🎯 **Liderazgo Técnico**: Visión tecnológica en proyectos de impacto global
 - 📊 **Business Intelligence**: Dashboards interactivos y análisis de datos
 - 📱 **Desarrollo Móvil**: Aplicaciones Android con Kotlin y Java
@@ -93,7 +81,7 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 <div align="center">
 
 ### Educación
-- **Ingeniería de Software** | Universidad Autónoma del Perú *(Marzo 2023 – En curso)*
+- **Ingeniería de Software** | Universidad Autónoma del Perú *(Marzo 2023 – Diciembre 2027)*
 
 ### Certificaciones (10+)
 - ✅ Analista Programador (Universidad Autónoma del Perú)
@@ -144,16 +132,6 @@ Analista Programador apasionado por la **ingeniería de datos** e **inteligencia
 - 🌍 Liderar equipos técnicos hacia objetivos ambiciosos
 - 📚 Aprender constantemente sobre nuevas tecnologías
 - 📱 Crear aplicaciones que mejoren la experiencia del usuario
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Mis Contribuciones
-
-![GitHub contributions chart](https://ghchart.rshah.org/JeremySanchezDev)
 
 </div>
 
